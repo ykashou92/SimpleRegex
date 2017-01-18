@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: person("Yanal", "Kashou", email = "yanal.kashou@gmail.com", role = c("aut", "cre"))
 Description: My first R Package; it contains 2 core functions, RemoveFirstWord() and RemoveLastWord(), that given a string input remove the first word and last word respectively.
 Depends: R (>= 3.3.2)
-License: What license is it under?
+License: MIT License
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1.9000
